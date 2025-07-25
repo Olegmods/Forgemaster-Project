@@ -13210,6 +13210,119 @@ EXAMPLE OF CREW HAZARD THAT CAN HARM AND DISABLE ACTIONS OF CREW HIT
 		</mod:findName>
 	</mod:findLike>
 
+	<mod:findLike type="augments"> <!-- LAB_ENGI_COMBAT -->
+		<mod:findName type="aug" name="LAB_ENGI_COMBAT">
+			<mod:findLike type="statBoosts">
+				<mod:findLike type="statBoost">
+					<mod:findLike type="whiteList">
+						<mod-append:unique_mossberg/>
+						<mod-append:unique_remington/>
+					</mod:findLike>
+				</mod:findLike>
+			</mod:findLike>
+		</mod:findName>
+	</mod:findLike>
+
+	<mod:findLike type="augments"> <!-- EX_LAB_ENGI_COMBAT -->
+		<mod:findName type="aug" name="EX_LAB_ENGI_COMBAT">
+			<mod:findLike type="statBoosts">
+				<mod:findLike type="statBoost">
+					<mod:findLike type="whiteList">
+						<mod-append:unique_mossberg/>
+						<mod-append:unique_remington/>
+					</mod:findLike>
+				</mod:findLike>
+			</mod:findLike>
+		</mod:findName>
+	</mod:findLike>
+	<mod:findLike type="augments"> <!-- LAB_ENGI_EFFICIENCY -->
+		<mod:findName type="aug" name="LAB_ENGI_EFFICIENCY">
+			<mod:findLike type="statBoosts">
+				<mod:findLike type="statBoost">
+					<mod:findLike type="whiteList">
+						<mod-append:unique_mossberg/>
+						<mod-append:unique_remington/>
+					</mod:findLike>
+				</mod:findLike>
+			</mod:findLike>
+		</mod:findName>
+	</mod:findLike>
+
+	<mod:findLike type="augments"> <!-- LAB_ENGI_ADAPT -->
+		<mod:findName type="aug" name="LAB_DEFENDER_REPAIRS">
+			<mod:findLike type="statBoosts">
+				<mod:findLike type="statBoost">
+					<mod:findLike type="whiteList">
+						<mod-append:unique_mossberg/>
+						<mod-append:unique_remington/>
+					</mod:findLike>
+				</mod:findLike>
+			</mod:findLike>
+		</mod:findName>
+	</mod:findLike>
+
+
+	<mod:findLike type="augments"> <!-- EX_LAB_ENGI_ADAPT -->
+		<mod:findName type="aug" name="EX_LAB_DEFENDER_REPAIRS">
+			<mod:findLike type="statBoosts">
+				<mod:findLike type="statBoost">
+					<mod:findLike type="whiteList">
+						<mod-append:unique_mossberg/>
+						<mod-append:unique_remington/>
+					</mod:findLike>
+				</mod:findLike>
+			</mod:findLike>
+		</mod:findName>
+	</mod:findLike>
+	<!--APPENDS CHIEFTAIN TO THE ORCHID UPGRADE WHITELISTS!  -->
+
+	<mod:findLike type="augments"> <!-- LAB_ORCHID_THORNS -->
+		<mod:findName type="aug" name="LAB_ORCHID_THORNS">
+			<mod:findLike type="statBoosts">
+				<mod:findLike type="statBoost">
+					<mod:findLike type="whiteList">
+						<mod-append:chieftain/>
+					</mod:findLike>
+				</mod:findLike>
+			</mod:findLike>
+		</mod:findName>
+	</mod:findLike>
+
+	<mod:findLike type="augments"> <!-- LAB_ORCHID_TOTIPOTENCY -->
+		<mod:findName type="aug" name="LAB_ORCHID_TOTIPOTENCY">
+			<mod:findLike type="statBoosts">
+				<mod:findLike type="statBoost">
+					<mod:findLike type="whiteList">
+						<mod-append:chieftain/>
+					</mod:findLike>
+				</mod:findLike>
+			</mod:findLike>
+		</mod:findName>
+	</mod:findLike>
+
+	<mod:findLike type="augments"> <!-- LAB_ORCHID_DEPRESSURIZED -->
+		<mod:findName type="aug" name="LAB_ORCHID_DEPRESSURIZED">
+			<mod:findLike type="statBoosts">
+				<mod:findLike type="statBoost">
+					<mod:findLike type="whiteList">
+						<mod-append:chieftain/>
+					</mod:findLike>
+				</mod:findLike>
+			</mod:findLike>
+		</mod:findName>
+	</mod:findLike>
+
+	<mod:findLike type="augments"> <!-- LAB_ORCHID_THORNS -->
+		<mod:findName type="aug" name="LAB_ORCHID_THORNS">
+			<mod:findLike type="statBoosts">
+				<mod:findLike type="statBoost">
+					<mod:findLike type="whiteList">
+						<mod-append:chieftain/>
+					</mod:findLike>
+				</mod:findLike>
+			</mod:findLike>
+		</mod:findName>
+	</mod:findLike>
 	<!--APPENDS PLATED AND FORGEMASTER TO OSMIAN BATTERIES  -->
 
 	<mod:findLike type="augments"> <!-- OSMIAN_BATTERIES -->
