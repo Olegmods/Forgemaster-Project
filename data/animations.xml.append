@@ -5681,7 +5681,14 @@ try this later
 
 </FTL>
 
-
+<FTL><!--removed MV stuff that's needed for this mod-->
+	<animSheet name="symbioteproj" w="27" h="24" fw="27" fh="24">crewprojectiles/symbioteproj.png</animSheet>
+	<anim name="symbioteproj">
+		<sheet>symbioteproj</sheet>
+		<desc length="1" x="0" y="0"/>
+		<time>1.0</time>
+	</anim>
+</FTL>
 
 <!-- ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂   -->
 <!-- ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂ ♂   -->
