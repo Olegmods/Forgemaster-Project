@@ -2695,6 +2695,21 @@
 		</powerList>
 	</crewBlueprint>
 
+	<crewBlueprint name="chieftain"> <!--CHIEFTAIN WAS REMOVED IN 5.4-->
+		<title>Orchid Chieftain</title>
+		<short>Chieftain</short>
+		<desc>Elite Orchid Crew. Strong Orchids with a natural grown layer of wooden armor that protect the Orchid Gardenworlds.</desc>
+		<cost>75</cost>
+		<bp>2</bp>
+		<rarity>0</rarity>
+		<powerList>
+			<power>Wooden armor increases max health to 130.</power>
+			<power>Rapidly refills oxygen, and cannot suffocate.</power>
+			<power>All other crew in the same room are also immune to suffocation, and gain 25% additional max health.</power>
+			<power>Take 6x damage from fire and puts them out at half speed.</power>
+		</powerList>
+	</crewBlueprint>
+
 	<crewBlueprint name="fm_terminus"> <!--TERMINUS RAM EFFECT-->
 		<desc>-</desc>
 		<title>-</title>
