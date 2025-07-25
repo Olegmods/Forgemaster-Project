@@ -9044,6 +9044,40 @@
     </race>
 	</crew>
 
+	<race name="chieftain">
+		<maxHealth>130</maxHealth>
+		<canSuffocate>false</canSuffocate>
+		<fireRepairMultiplier>0.6</fireRepairMultiplier>
+		<fireDamageMultiplier>6.0</fireDamageMultiplier>
+		<oxygenChangeSpeed>2</oxygenChangeSpeed>
+		<passiveStatBoosts>  
+			<statBoost name="canSuffocate">
+				<boostType>SET</boostType>
+				<value>false</value>
+				<shipTarget>CURRENT_ROOM</shipTarget>
+				<crewTarget>ALLIES</crewTarget>
+				<affectsSelf>false</affectsSelf>
+				<priority>999</priority>
+			</statBoost>
+			<statBoost name="maxHealth">
+				<boostType>MULT</boostType>
+				<amount>1.25</amount>
+				<shipTarget>CURRENT_ROOM</shipTarget>
+				<crewTarget>ALLIES</crewTarget>
+				<affectsSelf>false</affectsSelf>
+				<priority>0</priority>
+			</statBoost>
+		</passiveStatBoosts>
+		<deathSounds>
+			<deathSound>orchidDeath</deathSound>
+		</deathSounds>
+		<shootingSounds>
+			<shootingSound>orchidShoot1</shootingSound>
+			<shootingSound>orchidShoot2</shootingSound>
+			<shootingSound>orchidShoot3</shootingSound>
+		</shootingSounds>
+	</race>
+
 
 	<!--fixes to crew/drones burning/suffocation/id-->
 
