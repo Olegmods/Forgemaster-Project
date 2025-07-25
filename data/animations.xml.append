@@ -181,8 +181,156 @@
 		<time>1</time>
 	</anim>
 
+	<!--CHIEFTAIN ANIMATIONS
+	*******************
+	CHIEFTAIN ANIMATIONS
+	********************-->
 
+<animSheet name="chieftain" w="490" h="805" fw="35" fh="35">people/orchid_caretaker_base.png
 
+<anim name="chieftain_portrait">
+	<sheet>chieftain</sheet>
+	<desc length="1" x="0" y="0"/>
+	<time>1.0</time>
+</anim>
+
+<anim name="chieftain_crewLaser">
+	<sheet>chieftain</sheet>
+	<desc length="1" x="1" y="0"/>
+	<time>0.5</time>
+</anim>
+
+<anim name="chieftain_clone">
+	<sheet>chieftain</sheet>
+	<desc length="7" x="2" y="0"/>
+	<time>1.0</time>
+</anim>
+
+<anim name="chieftain_death_right">
+	<sheet>chieftain</sheet>
+	<desc length="9" x="0" y="1"/>
+	<time>1.0</time>
+</anim>
+
+<anim name="chieftain_teleport">
+	<sheet>chieftain</sheet>
+	<desc length="9" x="0" y="2"/>
+	<time>0.5</time>
+</anim>
+
+<anim name="chieftain_type_up">
+	<sheet>chieftain</sheet>
+	<desc length="4" x="0" y="3"/>
+	<time>1.0</time>
+</anim>
+
+<anim name="chieftain_type_down">
+	<sheet>chieftain</sheet>
+	<desc length="4" x="4" y="3"/>
+	<time>1.0</time>
+</anim>
+
+<anim name="chieftain_type_right">
+	<sheet>chieftain</sheet>
+	<desc length="4" x="0" y="4"/>
+	<time>1.0</time>
+</anim>
+
+<anim name="chieftain_type_left">
+	<sheet>chieftain</sheet>
+	<desc length="4" x="4" y="4"/>
+	<time>1.0</time>
+</anim>
+
+<anim name="chieftain_repair">
+	<sheet>chieftain</sheet>
+	<desc length="9" x="0" y="5"/>
+	<time>1.0</time>
+</anim>
+
+<anim name="chieftain_fire_up">
+	<sheet>chieftain</sheet>
+	<desc length="4" x="0" y="6"/>
+	<time>1.0</time>
+</anim>
+
+<anim name="chieftain_fire_left">
+	<sheet>chieftain</sheet>
+	<desc length="4" x="4" y="6"/>
+	<time>1.0</time>
+</anim>
+
+<anim name="chieftain_fire_down">
+	<sheet>chieftain</sheet>
+	<desc length="4" x="0" y="7"/>
+	<time>1.0</time>
+</anim>
+
+<anim name="chieftain_fire_right">
+	<sheet>chieftain</sheet>
+	<desc length="4" x="4" y="7"/>
+	<time>1.0</time>
+</anim>
+
+<anim name="chieftain_punch_up">
+	<sheet>chieftain</sheet>
+	<desc length="10" x="0" y="8"/>
+	<time>1.0</time>
+</anim>
+
+<anim name="chieftain_punch_down">
+	<sheet>chieftain</sheet>
+	<desc length="10" x="0" y="9"/>
+	<time>1.0</time>
+</anim>
+
+<anim name="chieftain_shoot_up">
+	<sheet>chieftain</sheet>
+	<desc length="3" x="0" y="10"/>
+	<time>1.0</time>
+</anim>
+
+<anim name="chieftain_shoot_left">
+	<sheet>chieftain</sheet>
+	<desc length="3" x="3" y="10"/>
+	<time>1.0</time>
+</anim>
+
+<anim name="chieftain_shoot_down">
+	<sheet>chieftain</sheet>
+	<desc length="3" x="0" y="11"/>
+	<time>1.0</time>
+</anim>
+
+<anim name="chieftain_shoot_right">
+	<sheet>chieftain</sheet>
+	<desc length="3" x="3" y="11"/>
+	<time>1.0</time>
+</anim>
+
+<anim name="chieftain_walk_up">
+	<sheet>chieftain</sheet>
+	<desc length="4" x="0" y="12"/>
+	<time>1.0</time>
+</anim>
+
+<anim name="chieftain_walk_left">
+	<sheet>chieftain</sheet>
+	<desc length="4" x="4" y="12"/>
+	<time>1.0</time>
+</anim>
+
+<anim name="chieftain_walk_down">
+	<sheet>chieftain</sheet>
+	<desc length="4" x="0" y="13"/>
+	<time>1.0</time>
+</anim>
+
+<anim name="chieftain_walk_right">
+	<sheet>chieftain</sheet>
+	<desc length="4" x="4" y="13"/>
+	<time>1.0</time>
+</anim>
 
 
 	<!--PLATED ANIMATIONS
