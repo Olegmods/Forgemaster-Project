@@ -13587,7 +13587,7 @@
 		<rarity>0</rarity>
 		<spawnCrew>
 			<number>1</number>
-			<race>orchid_caretaker</race>
+			<race>chieftain</race>
 			<lifetime>20</lifetime>
 			<statBoosts>
 				<statBoost name="noClone">
